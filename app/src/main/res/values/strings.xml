@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SNAS</string>
+    <string name="cadastro">CADASTRO</string>
+    <string-array name="unidades">
+        <item>CREAS</item>
+        <item>CRAS</item>
+    </string-array>
+</resources>
